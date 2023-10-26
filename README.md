@@ -8,7 +8,7 @@ This is the place where I learning and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="[https://linkedin.com/in/syarifahcahyati](https://www.linkedin.com/in/syarifah-cahyati-141158210/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syarifahcahyati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syarifah-cahyati-141158210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syarifahcahyati" height="30" width="40" /></a>
 <a href="https://instagram.com/syarifahsetiohadi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syarifahcahyati" height="30" width="40" /></a>
 
 ### 👑 &nbsp; About Me
